@@ -1,0 +1,126 @@
+/* Page specific attributes */
+header {
+width: 100%;
+height: 300px;
+background-color: aqua;
+}
+
+footer {
+width: 100%;
+height: 300px;
+background-color: rgb(255,0,0);
+}
+
+tr {
+    width: 50px;
+    height: 50px;
+}
+
+td {
+    width: 50px;
+    height: 50px;
+}
+
+img {
+    height: 40px;
+    width: 40px;
+}
+
+/* Table attributes */
+#tr1td1 {
+    background-color: rgb(0,0,0);
+}
+
+#tr1td2 {
+    background-color: brown;
+}
+
+#tr1td3 {
+    background-color: aquamarine;
+}
+
+#tr1td4 {
+    background-color: azure;
+}
+
+#tr2td1 {
+    background-color: beige;
+}
+
+#tr2td2 {
+    background-color: bisque;
+}
+
+#tr2td3 {
+    background-color: black;
+}
+
+#tr2td4 {
+    background-color: blanchedalmond;
+}
+
+#tr3td1 {
+    background-color: blue;
+}
+
+#tr3td2 {
+    background-color: blueviolet;
+}
+
+#tr3td3 {
+    background-color: brown;
+}
+
+#tr3td4 {
+    background-color: burlywood;
+}
+
+#tr4td1 {
+    background-color: cadetblue;
+}
+
+#tr4td2 {
+    background-color: chartreuse;
+}
+
+#tr4td3 {
+    background-color: chocolate;
+}
+
+#tr4td4 {
+    background-color: cornflowerblue;
+}
+
+/* Background color words in table */
+
+#tr1td1p {
+    background-color: darkblue;
+}
+
+#tr2td1p {
+    background-color: darkcyan;
+}
+
+#tr3td1p {
+    background-color: darkgoldenrod;
+}
+
+#tr4td1p {
+    background-color: darkgray;
+}
+
+#tr1td3p {
+    background-color: darkgreen;
+}
+
+#tr2td3p {
+    background-color: darkkhaki;
+}
+
+#tr3td3p {
+    background-color: darkmagenta;
+}
+
+#tr4td3p {
+    background-color: darkred;
+}
